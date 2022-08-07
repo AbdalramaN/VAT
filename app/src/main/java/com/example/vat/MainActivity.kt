@@ -16,10 +16,10 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnCalculateVat.setOnClickListener {
             calculateVat()
-        }// End setOnClickListener
+        }
 
 
-    }// End onCreate
+    }
 
     private fun calculateVat() {
 
